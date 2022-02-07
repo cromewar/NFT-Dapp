@@ -31,14 +31,7 @@ class App extends Component {
                 <p>
                   Edita <code>src/components/App.js</code> y guarda para recargar.
                 </p>
-                <a
-                  className="App-link"
-                  href="https://blockstellart.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                   APRENDE BLOCKCHAIN <u><b>AHORA! </b></u>
-                </a>
+                
               </div>
             </main>
           </div>
